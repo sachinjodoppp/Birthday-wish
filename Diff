@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Happy Birthday!</title></head>
+<body>
+  <h1 style="color: pink; text-align: center;">🎉 Happy Birthday Kashish 🎉</h1>
+  <p style="text-align: center;">You can click below to begin your surprise.</p>
+  <div style="text-align: center;">
+    <a href="level1.html">Go to Surprise</a>
+  </div>
+</body>
+</html>
